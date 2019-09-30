@@ -28,7 +28,7 @@ Each Task View lives in a separate file:
 * FunctionalData 	Functional Data Analysis
 * Genetics 	Statistical Genetics
 * Graphics 	Graphic Displays & Dynamic Graphics & Graphic Devices & Visualization
-* HighPerformanceComputing 	High-Performance and Parallel Computing with Python
+* HighPerformanceComputing 	[High-Performance and Parallel Computing with Python](HPC.md)
 * Hydrology 	Hydrological Data and Modeling
 * MachineLearning 	Machine Learning & Statistical Learning
 * MedicalImaging 	Medical Image Analysis
