@@ -6,8 +6,11 @@ on which python packages are relevant for which data science task.
 
 ## Python versus R versus Julia overview
 While Task Views are dedicated exclusively to Python data science tools, the project is inspired by the R 
-ecosystem [CRAN views](https://cran.r-project.org/web/views/). A side-by-side comparison with the R packages 
-available for data science helps identify important sub-domains where Python may currently lag. [Python vs R Comparison](https://www.openriskmanual.org/wiki/Python_versus_R_Language). 
+ecosystem [CRAN views](https://cran.r-project.org/web/views/). A side-by-side comparison with R and Julia packages 
+available for data science helps identify important sub-domains where Python may currently lag. The overview is
+available in two formats:
+* As a wiki page: [Jupyter Overview Wiki](https://www.openriskmanual.org/wiki/Overview_of_the_Julia-Python-R_Universe). 
+* As a markdown document: [Jupyter Overview Markdown](Overview.md)
 
 Task views aim to outline which packages could be included (or excluded) in a certain project to achieve certain 
 functionality. They are *not* meant to endorse the "best" package for any given task. 
