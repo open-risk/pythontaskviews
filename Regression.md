@@ -16,10 +16,10 @@ Packages offering regression methods functionality
 | Beta / Inflated Beta Regression  | Placeholder |  Placeholder           | Placeholder | Placeholder  |
 | Polynomial Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression) | Placeholder | Placeholder |Placeholder | Placeholder |
-| [Ridge Regression (Tikhonov Regularization)](https://en.wikipedia.org/wiki/Tikhonov_regularization) | Placeholder | [sklearn.linear_model.Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html) | Placeholder | L2 Regularization |
-| Lasso Regression  | Placeholder |  Placeholder           | Placeholder           | L1 Regularization  |
-| Elastic Net Regression | Placeholder |  Placeholder           | Placeholder           | L1 + L2 Regularization  |
-| Bayesian linear regression | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
+| [Ridge Regression (Tikhonov Regularization)](https://en.wikipedia.org/wiki/Tikhonov_regularization) | Placeholder | [sklearn.linear_model.Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html) | Placeholder | Linear least squares (Various Solvers) with L2 Regularization |
+| Lasso Regression  | Placeholder |  [sklearn.linear_model.Lasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)         | Placeholder           |Coordinate descent with L1 Regularization  |
+| [Elastic Net Regression](https://en.wikipedia.org/wiki/Elastic_net_regularization) | Placeholder |  [sklearn.linear_model.ElasticNet](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)        | Placeholder           | Coordinate descent with L1 + L2 Regularization  |
+| Bayesian linear regression | Placeholder |            | Placeholder           | Placeholder  |
 | [Segmented regression](https://en.wikipedia.org/wiki/Segmented_regression) | Placeholder |  Placeholder | Placeholder           | Placeholder  |
 | [Robust regression](https://en.wikipedia.org/wiki/Robust_regression) | Placeholder |  Placeholder | Placeholder | Placeholder  |
 
