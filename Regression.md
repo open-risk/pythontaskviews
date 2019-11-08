@@ -1,12 +1,19 @@
 ## Python Task Views: Regression Methods
 
-Packages offering regression methods functionality
+### Scope, Organization, Caveats
+The scope aims to cover typical regression methods, not edge cases. Regressions in relation to timeseries data are to be covered in the [Econometrics](Econometrics.md) Task View. The entries are grouped together roughly by similarity of purpose (use case) and problem context but there can be obviously substantial overlap
+
+When there is no package identified that appears reasonably stable / mature the corresponding slot is simply empty
+
+Listing here does not imply any sort of assurance about the quality of algorithms, the degree of testing etc. Always test packages and functionalities to a degree proportional to the significance, requirements and sensitivity of your data science task.
+
+### Packages offering regression methods functionality
 
 * The first column indicates the specific method and / or functionality along with a documentation link where the mathematics of the method is documented in detail
 * The second column has links to functionality offered by the lower level packages scipy/numpy/pandas (where available) 
 * The third column has links to the standard statistical packages (scikit-learn and statsmodels)
 * The fourth column has links to deep learning packages (where regressions methods are already released)
-* The fifth column is reserved for specialized projects
+* The fifth column is reserved for more specialized projects
 
 | Functionality / Documentation | Scipy/Numpy/Pandas | Scikit-learn/Statsmodels  | Pytorch/TensorFlow |  Other |
 |-------------------------------| ------------ |-------------------------- | ----- | -------- |
