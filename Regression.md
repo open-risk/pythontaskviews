@@ -16,7 +16,12 @@ Packages offering regression methods functionality
 | Beta / Inflated Beta Regression  | Placeholder |  Placeholder           | Placeholder | Placeholder  |
 | Polynomial Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression) | Placeholder | Placeholder |Placeholder | Placeholder |
-| Ridge Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
+| [Ridge Regression (Tikhonov Regularization)](https://en.wikipedia.org/wiki/Tikhonov_regularization) 
+| Placeholder 
+| Placeholder           
+| Placeholder           
+| Placeholder  
+|
 | Lasso Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | ElasticNet | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | Bayesian linear regression | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
