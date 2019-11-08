@@ -21,7 +21,7 @@ Packages offering regression methods functionality
 | [Elastic Net Regression](https://en.wikipedia.org/wiki/Elastic_net_regularization) | Placeholder |  [sklearn.linear_model.ElasticNet](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)        | Placeholder           | Coordinate descent with L1 + L2 Regularization  |
 | Bayesian linear regression | Placeholder |            | Placeholder           | Placeholder  |
 | [Segmented regression](https://en.wikipedia.org/wiki/Segmented_regression) | Placeholder |  Placeholder | Placeholder           | Placeholder  |
-| [Robust regression](https://en.wikipedia.org/wiki/Robust_regression) | Placeholder |  Placeholder | Placeholder | Placeholder  |
+| [Robust regression](https://en.wikipedia.org/wiki/Robust_regression) | Placeholder | [statsmodels.robust](https://www.statsmodels.org/devel/generated/statsmodels.robust.robust_linear_model.RLM.html#statsmodels.robust.robust_linear_model.RLM) | Placeholder | Placeholder  |
 
 
 ## Notes
