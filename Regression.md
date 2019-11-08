@@ -3,12 +3,12 @@
 Packages offering regression methods functionality
 
 * The first column indicates the specific method and / or functionality along with a documentation link where the mathematics of the method is documented in detail
-* The second column has links to functionality offered by lower level packages (where available) 
+* The second column has links to functionality offered by the lower level packages scipy/numpy/pandas (where available) 
 * The third column has links to the standard statistical packages (scikit-learn and statsmodels)
-* The fourth column has links to more specialized packages
-* The fifth column has any further remarks
+* The fourth column has links to deep learning packages (where regressions methods are already released)
+* The fifth column is reserved for specialized projects
 
-| Functionality / Documentation | Scipy/Numpy/Pandas | Scikit-learn/Statsmodels  | Other |  Remarks |
+| Functionality / Documentation | Scipy/Numpy/Pandas | Scikit-learn/Statsmodels  | Pytorch/TensorFlow |  Other |
 |-------------------------------| ------------ |-------------------------- | ----- | -------- |
 | [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)  | [scipy.stats.linregress](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.linregress.html), [numpy.linalg.lstsq](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html)| Placeholder | Placeholder| Scipy/Numpy offer low level least squares routines |
 | Generalized Liner Regression  | Placeholder |  Placeholder     | Placeholder  | Placeholder  |
@@ -16,6 +16,9 @@ Packages offering regression methods functionality
 | Beta / Inflated Beta Regression  | Placeholder |  Placeholder           | Placeholder | Placeholder  |
 | Polynomial Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)  | Placeholder | [Statsmodels.logit](http://www.statsmodels.org/dev/generated/statsmodels.discrete.discrete_model.Logit.html), [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) |  Placeholder           | Placeholder  |
+| Probit Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
+| Multinomial Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
+| Ordinal Regression  | Placeholder |  Placeholder           | Placeholder           | Placeholder  |
 | [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression) | Placeholder | Placeholder |Placeholder | Placeholder |
 | [Ridge Regression (Tikhonov Regularization)](https://en.wikipedia.org/wiki/Tikhonov_regularization) | Placeholder | [sklearn.linear_model.Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html) | Placeholder | Linear least squares (Various Solvers) with L2 Regularization |
 | [Lasso Regression](https://en.wikipedia.org/wiki/Lasso_(statistics))  | Placeholder |  [sklearn.linear_model.Lasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)         | Placeholder           |Coordinate descent with L1 Regularization  |
