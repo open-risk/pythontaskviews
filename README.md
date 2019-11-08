@@ -42,6 +42,7 @@ reflect more accurately the grouping of tasks in the Python universe
 * Extreme Value Analysis
 * Empirical Finance
 * Functional Data Analysis
+* [General Statistics](Statistics.md)
 * Graphical Models in Python
 * Handling and Analyzing Spatio-Temporal Data
 * [High-Performance and Parallel Computing with Python](HPC.md)
@@ -51,7 +52,6 @@ reflect more accurately the grouping of tasks in the Python universe
 * Meta-Analysis
 * Missing Data
 * Model Deployment with Python
-* [Multivariate Statistics](Statistics.md)
 * Natural Language Processing
 * [Numerical Mathematics](Mathematics.md)
 * Official Statistics & Survey Methodology
@@ -59,6 +59,7 @@ reflect more accurately the grouping of tasks in the Python universe
 * Phylogenetics, Especially Comparative Methods
 * Probability Distributions
 * Psychometric Models and Methods
+* [Regression Methods](Regression.md)
 * [Reproducible Research](Reproducibility.md)
 * Robust Statistical Methods
 * [Semantic Data](SemanticData.md)
