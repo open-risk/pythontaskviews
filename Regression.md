@@ -10,7 +10,7 @@ Packages offering regression methods functionality
 
 
 | Functionality / Documentation | Numpy/Pandas | Scikit-learn/Statsmodels  | Other |  Remarks |
-|---------------| ----------- |----------------------- | 
+|-------------------------------| ------------ |-------------------------- | ----- | -------- |
 | [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)  | Placeholder| Placeholder | Placeholder  |
 | Fractional Response Regression  | Placeholder |  Placeholder     | Placeholder  |
 | [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)  | Placeholder | [Statsmodels.logit](http://www.statsmodels.org/dev/generated/statsmodels.discrete.discrete_model.Logit.html), [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) |  Placeholder           | Placeholder  |
